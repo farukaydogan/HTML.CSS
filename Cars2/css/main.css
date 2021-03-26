@@ -62,7 +62,7 @@ h1 p{text-align: center; font-size: 24px;margin: 30px;}
 #parallax
 {background: linear-gradient(
     rgba(0,0,0,.1),
-    rgba(0,0,0,.7)),
+    rgba(184, 81, 81, 0.7)),
 url('../img/ville-kaisla-HNCSCpWrVJA-unsplash.jpg');background-attachment: fixed; background-size: cover; background-position:center ;text-align: center;
 }    
 .engineTop{text-align: center;}

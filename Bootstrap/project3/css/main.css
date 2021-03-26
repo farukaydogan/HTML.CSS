@@ -1,0 +1,25 @@
+#fiftySevenMillion {
+    color: #1757C2;
+    font-size: 56px;
+    font-family: Lato;
+    text-align: center;
+}
+
+#conclusion {
+    background: linear-gradient(75.96deg, #E8EEF9 0%, #FFFFFF 100%);
+    border-radius: 2px;
+}
+
+#ninetynine {
+    color: #1757C2;
+}
+
+#T {
+    width: 35px;
+    height: 56px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 56px;
+}
